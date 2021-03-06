@@ -1,0 +1,28 @@
+
+h3{
+	color: gold;
+	font-size: 50px;
+	border-style: double;
+	border-color: silver;
+}
+
+h4{
+	color: silver;
+	font-size: 50px;
+	
+}
+
+.head1{
+
+	background-color: blue;
+;
+}
+
+.red{
+
+	border: 5px solid red;
+}
+
+#heading1{
+	background-color: black;
+}
